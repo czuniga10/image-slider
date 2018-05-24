@@ -1,3 +1,3 @@
 # simple image slider
 
-<img src="images/image-slider.gif" />
+<img src="Images/image-slider.gif" />
